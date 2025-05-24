@@ -2,12 +2,9 @@
 layout: post
 title: Early Diagnosis of Pneumonia and COPD with a Smart Stethoscope with Cloud Server-Embedded Machine Learning
 subtitle: ML models can now function remotely in smart biomedical devices!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Marc Albesa
 ---
 
 > "In a world where breathing itself became a symbol of vulnerability, a smart stethoscope might be the doctor’s new best friend."
